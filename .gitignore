@@ -5,3 +5,5 @@ cred/
 settings.json
 tmp/
 00_исходник/
+python_script/06_tg_bot_mail_sender/pythonProject/cred
+python_script/06_tg_bot_mail_sender/pythonProject/config.py*
